@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="VZL9ERzr8Dv2Qsuq8IM4">
+    <mxGraphModel dx="926" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-5" edge="1" parent="1" source="GC9nDh5g1LSyr2qZCw95-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GC9nDh5g1LSyr2qZCw95-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-3" parent="1" style="ellipse;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="85" x="370" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-7" edge="1" parent="1" source="GC9nDh5g1LSyr2qZCw95-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GC9nDh5g1LSyr2qZCw95-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Buka Daftar Peralatan" vertex="1">
+          <mxGeometry height="60" width="120" x="352.5" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-9" edge="1" parent="1" source="GC9nDh5g1LSyr2qZCw95-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GC9nDh5g1LSyr2qZCw95-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Lihat Informasi&lt;div&gt;Ketersediaan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="352.5" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="GC9nDh5g1LSyr2qZCw95-8" parent="1" style="ellipse;html=1;shape=endState;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="397.5" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
